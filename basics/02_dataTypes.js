@@ -28,6 +28,19 @@ let state;
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
 
+/*
+| Type      | Example    |
+| --------- | ---------- |
+| String    | `"hello"`  |
+| Number    | `10`       |
+| Boolean   | `true`     |
+| Undefined | `let x;`   |
+| Null      | `null`     |
+| BigInt    | `123n`     |
+| Symbol    | `Symbol()` |
+| Object    | `{}`       |
+| Array     | `[]`       |
+*/
 
 
 // Primitive Data Types
